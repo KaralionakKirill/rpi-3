@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": {
+                "ru": "Виктор Аникин",
+                "en": "Viktor Anikin"
+            },
+            "dob": "14.01.1918",
+            "dod": "23.09.1997",
+            "description": {
+                "ru": "Белорусский архитектор, преподаватель.",
+                "en": "Belarusian architect and teacher"
+            },
+            "photoUrl": "https://ais.by/sites/ais.by/files/2013/201301/Anikin.jpg"
+        },
+        {
+            "id": 1,
+            "name": {
+                "ru": "Бакланов Михаил Иванович",
+                "en": "Baklanov Mikhail Ivanovich"
+            },
+            "dob": "30.01.1914",
+            "dod": "23.01.1990",
+            "description": {
+                "ru": "Заслуженный архитектор Белорусской ССР",
+                "en": "Honored Architect of the Belarusian SSR"
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/ru/6/6d/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2.jpg"
+        },
+        {
+            "id": 2,
+            "name": {
+                "ru": "Владимир Григорьевич Исаченко",
+                "en": "Vladimir Grigoryevich Isachenko"
+            },
+            "dob": "16.05.1925",
+            "dod": "30.10.2011",
+            "description": {
+                "ru": "Заслуженный архитектор Республики Беларусь. Член Белорусского союза архитекторов.",
+                "en": "Honored Architect of the Republic of Belarus. Member of the Belarusian Union of Architects."
+            },
+            "photoUrl": "https://gomelstreet.by/wp-content/uploads/2019/10/isachenko-vladimir-grigorevich.jpg"
+        },
+        {
+            "id": 3,
+            "name": {
+                "ru": "Игорь Дмитриевич Белогорцев",
+                "en": "Igor Dmitrievich Belogortsev"
+            },
+            "dob": "21.03.1911",
+            "dod": "17.10.1996",
+            "description": {
+                "ru": "Белорусский архитектор, кандидат архитектуры, профессор",
+                "en": "Belarusian architect, Candidate of Architecture, Professor"
+            },
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/ru/8/82/%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%D0%98%D0%94.jpg"
+        },
+        {
+            "id": 4,
+            "longDescription": {
+                "ru": "Евгений Львович Заславский (белор. Яўген Львовіч Заслаўскі) — советский и белорусский архитектор. Один из авторов генерального плана Минска 1964 года, кандидат архитектуры с 1961 года. Профессор архитектуры БНТУ. Заслуженный архитектор Республики Беларусь (1980).",
+                "en": "Evgeny Lvovich Zaslavsky (Belarusian Yagen Lvovich Zaslaysky) - Soviet and Belarusian architect. One of the authors of the master plan of Minsk in 1964, Candidate of Architecture since 1961. Professor of Architecture at BNTU. Honored Architect of the Republic of Belarus (1980)."
+            },
+            "name": {
+                "ru": "Евгений Львович Заславский",
+                "en": "Evgeny Lvovich Zaslavsky"
+            },
+            "dob": "20.05.1920",
+            "dod": "06.07.2007",
+            "description": {
+                "ru": "Cоветский и белорусский архитектор.",
+                "en": "Soviet and Belarusian architect."
+            },
+            "photoUrl": "http://bsa.by/files/resizedbg/600x700/bio/119/88ba6bb19476f183547ca37f1367529f.jpg"
+        }
+    ]
+}

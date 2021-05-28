@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/rpi-3/static/js/main.465431fa.chunk.js",
+    "main.js.map": "/rpi-3/static/js/main.465431fa.chunk.js.map",
+    "runtime-main.js": "/rpi-3/static/js/runtime-main.6d73c8f8.js",
+    "runtime-main.js.map": "/rpi-3/static/js/runtime-main.6d73c8f8.js.map",
+    "static/css/2.e24d7292.chunk.css": "/rpi-3/static/css/2.e24d7292.chunk.css",
+    "static/js/2.a432ca73.chunk.js": "/rpi-3/static/js/2.a432ca73.chunk.js",
+    "static/js/2.a432ca73.chunk.js.map": "/rpi-3/static/js/2.a432ca73.chunk.js.map",
+    "index.html": "/rpi-3/index.html",
+    "static/css/2.e24d7292.chunk.css.map": "/rpi-3/static/css/2.e24d7292.chunk.css.map",
+    "static/js/2.a432ca73.chunk.js.LICENSE.txt": "/rpi-3/static/js/2.a432ca73.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/rpi-3/static/media/getFetch.582d29c4.cjs",
+    "static/media/kirill.780f3363.jpg": "/rpi-3/static/media/kirill.780f3363.jpg",
+    "static/media/lesha.634f4e77.jpg": "/rpi-3/static/media/lesha.634f4e77.jpg",
+    "static/media/main.f20e3e29.jpg": "/rpi-3/static/media/main.f20e3e29.jpg",
+    "static/media/main2.015f4b9c.jpg": "/rpi-3/static/media/main2.015f4b9c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d73c8f8.js",
+    "static/css/2.e24d7292.chunk.css",
+    "static/js/2.a432ca73.chunk.js",
+    "static/js/main.465431fa.chunk.js"
+  ]
+}

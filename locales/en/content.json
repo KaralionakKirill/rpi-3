@@ -1,0 +1,26 @@
+{
+    "navbar": {
+        "architects": "Architects",
+        "architectOfTheDay": "Architect of the Day",
+        "dev":"Developers"
+    },
+
+    "filling": {
+        "infoTitle" : "Welcome!",
+        "infoText" : "Learn more about the most famous architects of Belarus",
+        "infoButton" : "More detailed",
+        "architectLink": "The architect's page",
+        "architectOfTheDay": "Architect of the Day",
+        "siteDescTitle": "Quite a working site",
+        "siteDescText": "The site contains information about the architects of Belarus. The site was written in extreme conditions: a week before the test."
+    },
+    
+    "architects": {
+        "search": "Search",
+        "main": "Preview",
+        "bio": "Biography",
+        "photos": "Gallery",
+        "video": "Video",
+        "map": "Location"
+    }
+}
